@@ -1,8 +1,8 @@
-# PyClim: a series of Python modules, based around the matplotlib library, for the analysis of hourly weather data. It is intended as a resources for architectural / engineering / technology students and practitioners, to help develop early-stage bioclimatic design concepts. PyClim is organised arounnd the following modules
+# PyClim: a series of Python modules, based around the matplotlib library, for the analysis of hourly weather data. It is intended as a resources for architectural / engineering / technology students and practitioners, to help develop early-stage bioclimatic design concepts. PyClim is organised around the following modules
 
 - ClimAnalFunctions: functions relating to solar geometry, psychrometry and illumination.
 
-- Psychros: creates psychrometric charts for the plotting ot climate data {and of transformed data to mimic evaporative cooling}
+- Psychros: creates psychrometric charts for the plotting ot climate data {and of transformed data to mimic evaporative cooling}.
 
 - SolarIrradiation_Aniso: creates solar irradiation surface plots of annual irradiation incident on a tilted plane solar collector.
 
